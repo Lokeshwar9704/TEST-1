@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 5000
 
 # Run the model training script when the container launches
-CMD ["python", "app.py"]
+CMD ["python", "train_model.py"]
