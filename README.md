@@ -1,4 +1,4 @@
-# Consumer Forecast Prediction
+# Super market analysis
 
 ## Description
 A Regression type prediction model using *Random Forest Classifier* algorithm. It uses MSE (Mean Squared Error) as the metric for prediction.
